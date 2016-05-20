@@ -1,3 +1,2 @@
-如何
-
+print("Hello World")
 
