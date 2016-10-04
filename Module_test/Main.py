@@ -1,2 +1,2 @@
-from MyMoudle import print_fun
-print_fun()
+from Sanwu import SanwuLib
+SanwuLib.print_fun()
